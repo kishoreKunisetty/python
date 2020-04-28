@@ -6,7 +6,7 @@ This repo contains the following programs.
 <pre>
 Numpy.ipynb       | A recap on the numpy module in python.
 bubble_sort.py    | A bubble sort algorithm implemented in python.
-derivatives.py    | A program which finds the derivative of a number.
+derivatives.py    | A program which finds the derivative of an equation.
 hello_world.py    | A simple hello world. What did you expect?
 insertionSort.py  | A insertion sort algorithm implemented in python.
 number_guess.py   | A program which can guess your number.
