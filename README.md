@@ -18,4 +18,5 @@ This repo contains the following programs.
 |pattern2.py       | A program that prints out another pattern, in a triangle.|
 |relationfinder.py | A program to find the arithmetic relation between 5 numbers.|
 |selection_sort.py | A selection sort algorithm implemented in python.|
+|shirt.py| A shirt class as a practice for OOPS|
 |stack.py          | A simple stack creation program.|
